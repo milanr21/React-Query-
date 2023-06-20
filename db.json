@@ -1,0 +1,19 @@
+{
+  "superheroes": [
+    {
+      "id": 1,
+      "name": "Nepal",
+      "capital": "Kathmandu"
+    },
+    {
+      "id": 2,
+      "name": "India  ",
+      "capital": "Delhi"
+    },
+    {
+      "id": 3,
+      "name": "Pakistan",
+      "capital": "Islamabad"
+    }
+  ]
+}
